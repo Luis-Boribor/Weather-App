@@ -1,6 +1,6 @@
 # Weather-App
 # TO RUN THE CODE:
-STEP1: Run the code 'npm start'
+STEP1: Run the code 'npm start',
        If the code is running, this will appear:
         'weatherapp@1.0.0 start'
         'node src/app.js'
